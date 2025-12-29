@@ -1,0 +1,4 @@
+{
+  "model_type": "IsolationForest",
+  "model_module": "sklearn.ensemble._iforest"
+}
